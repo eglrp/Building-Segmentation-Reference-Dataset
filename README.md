@@ -9,7 +9,7 @@ Furthermore, to avoid personal preferences when manually segmenting the dataset,
 
 ### Download link
 
-https://drive.google.com/open?id=1ZgcfpFekCM1u7GWkdOPs2x2nzgQPW1fn
+Please contact [Prof. Uwe Stilla, Dr. Ludwig Hoegner, or Yusheng Xu](http://www.pf.bgu.tum.de/sta.html) for getting this dataset. 
 
 ![Illustration](/figure/Reference_BuildingSegmentation.png)
 
