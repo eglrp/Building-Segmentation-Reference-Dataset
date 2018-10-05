@@ -7,15 +7,22 @@ This reference dataset is produced manually. Two subsets of point clouds are sel
 
 Furthermore, to avoid personal preferences when manually segmenting the dataset, we utilize the strategy propose in [Vo et al.](https://www.sciencedirect.com/science/article/pii/S0924271615000283), namely each reference dataset are segmented independently by persons who are familiar with point cloud segmentation work. For the reference datasets 1, there are in total 101 and 66 segments obtained for the scenes of Townsquare and St.Gallencathedral, respectively. Whereas for the reference datasets 2, there are in total 101 and 84 segments obtained for the scenes of STownsquare and St.Gallencathedral, respectively.
 
+### Download link
+
+https://drive.google.com/open?id=1ZgcfpFekCM1u7GWkdOPs2x2nzgQPW1fn
+
 ### Quick view
 
 ![Illustration](/figure/Reference_BuildingSegmentation.png)
+
+### Copyright
+The datasets provided are published under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License, which is following the license of [Semantic3D dataset](http://semantic3d.net/).
 
 ### Reference:
 
 This reference dataset is original cropped from ETH Zurich [Semantic3D dataset](http://semantic3d.net/), and manully segmented by [Photogrammetry & Remote Sensing](http://www.pf.bgu.tum.de) of TUM.
 
-Please refer the following publication, if this reference dataset is used in your work:
+Please refer the following publication and other necessary references of [Semantic3D dataset](http://semantic3d.net/), if this reference dataset is used in your work:
 
 ```
 @article{xu2018unsupervised,
