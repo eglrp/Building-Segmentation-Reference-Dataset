@@ -3,11 +3,13 @@ This is the data set used as the reference for the segmentation of LiDAR buildin
 
 ### Manully segmented reference
 
-This reference dataset is produced manually. Two subsets of point clouds are selected from the experimental datasets as ground truth. The rules for manual segmentation is fixed. Namely, each segment should correspond to a semantic object of the building component. For example, a planar segment representing the northern wall of the building, the frame structure representing to one of the windows in the facade, and the curved surface standing for one of the roof facets of the building.
+This reference dataset is produced manually. Two subsets of point clouds are selected from the experimental datasets as ground truth. The rules for manual segmentation is fixed: each segment should correspond to a semantic object of the building component. For example, a planar segment representing the northern wall of the building, the frame structure representing to one of the windows in the facade, and the curved surface standing for one of the roof facets of the building.
+
 Furthermore, to avoid personal preferences when manually segmenting the dataset, we utilize the strategy propose in [Vo et al.](https://www.sciencedirect.com/science/article/pii/S0924271615000283), namely each reference dataset are segmented independently by persons who are familiar with point cloud segmentation work. Then, automatic segmentation results will be compared against two reference datasets individually. Manually segmented reference datasets are shown in the figure below. For the reference datasets 1, there are in total 101 and 66 segments obtained for the scenes of St.Gallencathedral and Townsquare, respectively. Whereas for the reference datasets 2, there are in total 100 and 84 segments obtained for the scenes of St. Gallen cathedral and Townsquare, respectively.
 
-![截图](/figure/Reference_BuildingSegmentation.png)
+### Quick view
 
+![Illustration](/figure/Reference_BuildingSegmentation.png)
 
 ### Reference:
 
