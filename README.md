@@ -11,8 +11,6 @@ Furthermore, to avoid personal preferences when manually segmenting the dataset,
 
 https://drive.google.com/open?id=1ZgcfpFekCM1u7GWkdOPs2x2nzgQPW1fn
 
-### Quick view
-
 ![Illustration](/figure/Reference_BuildingSegmentation.png)
 
 ### Copyright
