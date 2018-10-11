@@ -24,7 +24,7 @@ Please refer the following publication and other necessary references of [Semant
 
 ```
 @article{xu2018unsupervised,
-  title={Unsupervised Segmentation of Point Clouds From Buildings Using Hierarchical Clustering Based on Gestalt Principles},
+  title={Unsupervised segmentation of point clouds from buildings using hierarchical clustering based on gestalt principles},
   author={Xu, Yusheng and Yao, Wei and Tuttas, Sebastian and Hoegner, Ludwig and Stilla, Uwe},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
   year={2018},
